@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with a trading bot
 - 💬 Ask me about nothing
 - 📫 How to reach me: anubratabhowmick@gmail.com
-- ⚡ Fun fact: I am 50% sarcastic and 50% joke
+- ⚡ Fun fact: I am 50% sarcastic and 50% joke.
 -->
