@@ -7,3 +7,4 @@
 - 💬 Ask me about Deep Learning, Computational Neuroscience
 - 📫 How to reach me: anubratabhowmick@gmail.com
 - ⚡ Fun fact: I am 50% sarcastic and 50% joke.
+- Find my ML Preparation Interview Guide: https://www.notion.so/Machine-Learning-Notes-6b815915f4404e0e860adb620261c046
