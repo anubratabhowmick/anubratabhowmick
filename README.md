@@ -13,4 +13,4 @@ I'm a writer and computer scientist. I grew up playing football and computer gam
 I'm best reached via [email](http://anubratabhowmick.github.io/). I'm always open to interesting conversations and collaboration.
 
 ---
-[![Twitter Follow](https://img.shields.io/twitter/follow/chipro?label=Follow&style=social)](https://twitter.com/anubrata_gunner)
+[![Twitter Follow](https://img.shields.io/twitter/follow/anubrata_gunner?label=Follow&style=social)](https://twitter.com/anubrata_gunner)
