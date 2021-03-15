@@ -1,10 +1,16 @@
-### Hi there 👋
+### Hi there, Anubrata aka Gunner here 👋
 
-- 🔭 I’m currently working on publishing our findings in Bibliographic-enhanced Information Retrieval
-- 🌱 I’m currently learning Computational Neuroscience
-- 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with replicating a paper
-- 💬 Ask me about Deep Learning, Computational Neuroscience
-- 📫 How to reach me: anubratabhowmick@gmail.com
-- ⚡ Fun fact: I am 50% sarcastic and 50% joke.
+I'm a writer and computer scientist. I grew up playing football and computer games.
+
+- 🔭 I’m currently working on understanding biomarkers of brain resilience.
+- 🌱 I'm currently a Teaching Assistant in Brain-Computer Interface, and Master student at the University of Twente.
+- 📝 I read and write a lot! 
+    - To see what I read, follow me on [GoodReads](https://www.goodreads.com/user/show/76771587-anubrata-bhowmick)
+    - To see what I write, follow me on [Medium](https://medium.com/@anubratagunner)
 - Find my ML Preparation Interview Guide: https://www.notion.so/Machine-Learning-Notes-6b815915f4404e0e860adb620261c046
+<!-- - 😅 Fun fact:--> 
+
+I'm best reached via [email](http://anubratabhowmick.github.io/). I'm always open to interesting conversations and collaboration.
+
+---
+[![Twitter Follow](https://img.shields.io/twitter/follow/chipro?label=Follow&style=social)](https://twitter.com/anubrata_gunner)
