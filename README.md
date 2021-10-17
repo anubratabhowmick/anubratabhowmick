@@ -2,8 +2,8 @@
 
 I'm a writer and computer scientist. I grew up playing football and computer games.
 
-- 🔭 I’m currently working on understanding biomarkers of brain resilience.
-- 🌱 I'm currently a Teaching Assistant in Brain-Computer Interface, and Master student at the University of Twente.
+- 🔭 I’m currently working on two Advanced Development Research projects at Philips.
+- 🌱 I'm currently researching on Fairness in Medical Applications using Machine Learning, in collaboration with Google Research.
 - 📝 I read and write a lot! 
     - To see what I read, follow me on [GoodReads](https://www.goodreads.com/user/show/76771587-anubrata-bhowmick)
     - To see what I write, follow me on [Medium](https://medium.com/@anubratagunner)
