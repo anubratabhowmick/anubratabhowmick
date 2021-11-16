@@ -4,6 +4,7 @@ I'm a writer and computer scientist. I grew up playing football and computer gam
 
 - 🔭 I’m currently working on two Advanced Development Research projects at Philips.
 - 🌱 I'm currently researching on Fairness in Medical Applications using Machine Learning, in collaboration with Google Research.
+- 🌱 I'm currently working on finding interesting research topic on Drug Discovery using Machine Learning
 - 📝 I read and write a lot! 
     - To see what I read, follow me on [GoodReads](https://www.goodreads.com/user/show/76771587-anubrata-bhowmick)
     - To see what I write, follow me on [Medium](https://medium.com/@anubratagunner)
