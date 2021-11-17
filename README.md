@@ -14,6 +14,8 @@ I'm a writer and computer scientist. I grew up playing football and computer gam
 I'm best reached via [email](http://anubratabhowmick.github.io/). I'm always open to interesting conversations and collaboration.
 
 ---
+[![GitHub anubratabhowmick](https://img.shields.io/github/followers/anubratabhowmick?label=follow&style=social)](https://github.com/anubratabhowmick)
+[![Linkedin: Anubrata Bhowmick](https://img.shields.io/badge/-anubratabhowmick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubratabhowmick/)](https://www.linkedin.com/in/anubratabhowmick/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/anubrata_gunner?label=Follow&style=social)](https://twitter.com/anubrata_gunner)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=anubratabhowmick&left_color=gray&right_color=blue)
 
