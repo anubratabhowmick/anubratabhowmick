@@ -15,7 +15,7 @@ I'm best reached via [email](http://anubratabhowmick.github.io/). I'm always ope
 
 ---
 [![GitHub anubratabhowmick](https://img.shields.io/github/followers/anubratabhowmick?label=follow&style=social)](https://github.com/anubratabhowmick)
-[![Linkedin: Anubrata Bhowmick](https://img.shields.io/badge/-Anubrata Bhowmick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubratabhowmick/)](https://www.linkedin.com/in/anubratabhowmick/)
+[![Linkedin: Anubrata Bhowmick](https://img.shields.io/badge/-Anubrata%20%Bhowmick-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anubratabhowmick/)](https://www.linkedin.com/in/anubratabhowmick/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/anubrata_gunner?label=Follow&style=social)](https://twitter.com/anubrata_gunner)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=anubratabhowmick&left_color=gray&right_color=blue)
 
