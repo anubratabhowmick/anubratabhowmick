@@ -15,3 +15,6 @@ I'm best reached via [email](http://anubratabhowmick.github.io/). I'm always ope
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/anubrata_gunner?label=Follow&style=social)](https://twitter.com/anubrata_gunner)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=anubratabhowmick&left_color=gray&right_color=blue)
+
+[![Anubrata's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anubratabhowmick&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=calm)](https://github.com/theGuyWithBlackTie/github-readme-stats)
