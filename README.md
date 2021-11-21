@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=anubratabhowmick&left_color=gray&right_color=blue" alt="anubratabhowmick" /> </p>
 
-- 🔭 I’m currently researching on **researching on Fairness in Medical Applications using Machine Learning, in collaboration with Google Research**
+- 🔭 I’m currently **researching on Fairness in Medical Applications using Machine Learning, in collaboration with Google Research**
 
 - 🔭 I'm currently working on finding interesting research topic on Drug Discovery using Machine Learning.
 
