@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey there 👋, I'm Anubrata</h1>
-<h3 align="center">AI Researcher with keen interest in Medical Informatics, HealthCare, Fairness, and Drug Discovery</h3>
+<h3 align="center">Data Scientist and Strategist with keen interesting in devising strategic solutions to data needs.</h3>
 
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=anubratabhowmick&left_color=gray&right_color=blue" alt="anubratabhowmick" /> </p>
 
