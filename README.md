@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=anubratabhowmick&left_color=gray&right_color=blue" alt="anubratabhowmick" /> </p>
 
-- 🔭 I’m currently **researching on Fairness in Medical Applications using Machine Learning, in collaboration with Google Research**
+- 🔭 I’m currently **contemplating my next move**
 
-- 🔭 I'm currently working on finding interesting research topic on Drug Discovery using Machine Learning.
+- 🔭 I'm currently AWOL.
 
-- 🌱 I’m currently learning **Network Science, DeepChem, PyTorch, Streamlit**
+- 🌱 I’m currently learning **Data Science, Data Strategy, Tensorflow/PyTorch, Streamlit**
 
-- 🤔 Interests: **Network Science, Machine learning, Deep learning, Graph Neural Networks, Data Science, Open science, Drug discovery**
+- 🤔 Interests: **Network Science, Machine learning, Deep learning, Graph Neural Networks, Data Science, Open science**
 
-- ⚡ Hobbies: When I’m not working, I can be found watching or playing soccer, reading books about science communication, mystery, or history, traveling, listening to rock music, playing my guitar, or watching thrillers/documentary films.
+- ⚡ Hobbies: When I’m not working, I can be found watching or playing football, reading books about science communication, mystery, or history, traveling, listening to rock music, playing my guitar, or watching thrillers/documentary films.
 
 - 📝 I read and write a lot! 
     - To see what I read, follow me on [GoodReads](https://www.goodreads.com/user/show/76771587-anubrata-bhowmick)
