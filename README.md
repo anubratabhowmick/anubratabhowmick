@@ -69,9 +69,7 @@ Here are some ideas to get you started:
     <td>Languages</td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/> </td>
     <td><img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="R" width="40" height="40"/> </td>
-    <td><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="70" height="40"/> </td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></td>
 
   </thead>
   <tr>
@@ -81,21 +79,14 @@ Here are some ideas to get you started:
    <tr>
     <td>DevOps</td>
      <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/></td>
-     <td><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/></td>
      <td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></td>
      <td><img src="https://www.vectorlogo.zone/logos/slack/slack-tile.svg" alt="slack" width="40" height="40"/> </td>
-  </tr>
-  <tr>
-    <td>UI User Interface and Scientific Design: </td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </td>
   </tr>
   
   <tr>
     <td>Cloud</td>
      <td><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/> </td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCloud" width="40" height="40"/> </td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/> </td>
   </tr>
   
   <tr> 
