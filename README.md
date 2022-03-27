@@ -57,10 +57,10 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/cAWZev5IHRGJHbD9PN/giphy.gif" width="30px"/>
   </h1>
   
-  ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/competition)
-  ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/dataset)
-  ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/notebook)
-  ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/edrickkesuma/discussion)
+  ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anubratagunner/competition)
+  ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anubratagunner/dataset)
+  ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anubratagunner/notebook)
+  ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anubratagunner/discussion)
 </div>
 
 <table>
