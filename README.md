@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey there 👋, I'm Anubrata</h1>
-<h3 align="center">Data Scientist and Strategist with keen interesting in devising strategic solutions to data needs.</h3>
+<h3 align="center">I'm a Data and AI Scientist at Philips Research, currently working in the field of real-time Machine Learning for Decisional Support for the next gen hospitals.</h3>
 
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=anubratabhowmick&left_color=gray&right_color=blue" alt="anubratabhowmick" /> </p>
 
-- 🔭 I’m currently **contemplating my next move**
+- 🔭 I’m currently setting up AnubrataLab AI, where I will be conducting open-source research.
 
-- 🔭 I'm currently AWOL.
+- 🔭 I'm currently creating a framekwork for Open-Source Drug Discovery.
 
 - 🌱 I’m currently learning **Data Science, Data Strategy, Tensorflow/PyTorch, Streamlit**
 
-- 🤔 Interests: **Network Science, Machine learning, Deep learning, Graph Neural Networks, Data Science, Open science**
+- 🤔 Interests: **Network Science, Machine learning, Deep learning, Graph Neural Networks, Data Science, Open science, Computational Neuroscience, and Drug Discovery**
 
 - ⚡ Hobbies: When I’m not working, I can be found watching or playing football, reading books about science communication, mystery, or history, traveling, listening to rock music, playing my guitar, or watching thrillers/documentary films.
 
