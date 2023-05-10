@@ -58,9 +58,9 @@ Here are some ideas to get you started:
   ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anubratagunner/dataset)
   ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anubratagunner/notebook)
   ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/anubratagunner/discussion)
-</div>
+</div> -->
 
-<table> -->
+<table>
 
   <thead>
     <td>Languages</td>
