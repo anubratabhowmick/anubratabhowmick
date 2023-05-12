@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Financial Engineering**, and **Product Management**.
 
-- 🤔 Interests: **Network Science, Machine learning, Deep learning, Graph Neural Networks, Data Science, Open science, Computational Neuroscience, and Medical Imaging**
+- 🤔 Interests: **Network Science, Deep learning, Graph Neural Networks, Computational Neuroscience, Medical Imaging, and Quantum AI**
 
 - ⚡ Hobbies: When I’m not working, I can be found watching or playing football, reading books about science communication, mystery, or history, traveling, listening to rock music, playing my guitar, or watching thrillers/documentary films.
 
