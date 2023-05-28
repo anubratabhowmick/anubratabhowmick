@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there 👋, I'm Anubrata</h1>
 <h3 align="center">I'm a Research Scientist at Quest Innovations, currently diving deep into the field of hyperspectral imaging and Machine Learning.</h3>
 
-<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=anubratabhowmick&left_color=gray&right_color=blue" alt="anubratabhowmick" /> </p>
-
 - 🔭 I’m currently setting up an AI Agency, where I will be able to facilitate AI Research and applications.
 
 - 🌱 I’m currently learning **Financial Engineering**, and **Product Management**.
@@ -42,7 +40,7 @@ Here are some ideas to get you started:
 <table>
   <thead>
     <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=anubratabhowmick&theme=default"></th>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=anubratabhowmick&show_icons=true" alt="Sebastián's Top Langs" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=anubratabhowmick&show_icons=true" alt="Anubrata's Top Langs" /></th>
     <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubratabhowmick&layout=compact" /></th>
   </thead>
 </table>
