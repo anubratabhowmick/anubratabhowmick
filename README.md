@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey there 👋, I'm Anubrata</h1>
-<h3 align="center">I'm a Research Scientist at Quest Innovations, currently diving deep into the field of hyperspectral imaging and Machine Learning.</h3>
+<h3 align="center">I'm a Research Scientist at Quest Medical Imaging, currently diving deep into the field of hyperspectral imaging and Deep Learning.</h3>
 
-- 🔭 I’m currently setting up an AI Agency, where I will be able to facilitate AI Research and applications.
+- 🔭 I’m currently starting up CozyNest, a high-tech real estate solution for the European Market.
 
-- 🌱 I’m currently learning **Financial Engineering**, and **Product Management**.
+- 🌱 I’m currently learning **Generative AI**, and **Product Management**.
 
-- 🤔 Interests: **Network Science, Deep learning, Graph Neural Networks, Computational Neuroscience, Medical Imaging, and Quantum AI**
+- 🤔 Interests: **Network Science, Deep Learning, Graph Neural Networks, Computational Neuroscience, Medical Imaging, and Quantum AI**
 
 - ⚡ Hobbies: When I’m not working, I can be found watching or playing football, reading books about science communication, mystery, or history, traveling, listening to rock music, playing my guitar, or watching thrillers/documentary films.
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     
 - Find my ML Preparation Interview Guide: https://www.notion.so/Machine-Learning-Notes-6b815915f4404e0e860adb620261c046
 
-- More information about me in [my personal webpage](https://anubratabhowmick.github.io/).
+- More information about me on [my webpage](https://anubratabhowmick.github.io/).
 
 <hr>
 
