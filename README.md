@@ -63,7 +63,7 @@ Here are some ideas to get you started:
   <thead>
     <td>Languages</td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/> </td>
-    <td><img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="R" width="40" height="40"/> </td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> </td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </td>
 
   </thead>
