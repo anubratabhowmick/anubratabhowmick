@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hey there 👋, I'm Anubrata</h1>
-<h3 align="center">I'm a Research Scientist at Quest Medical Imaging, currently diving deep into the field of hyperspectral imaging and Deep Learning.</h3>
+<h3 align="center">I'm a Group Leader: Data Analytics and AI at Olympus EMEA, leading AI propositions at Olympus EMEA.</h3>
 
-- 🔭 I’m currently starting up CozyNest, a high-tech real estate solution for the European Market.
+- 🔭 I’m currently starting up AI services in the EU.
 
-- 🌱 I’m currently learning **Generative AI**, and **Product Management**.
-
-- 🤔 Interests: **Network Science, Deep Learning, Graph Neural Networks, Computational Neuroscience, Medical Imaging, and Quantum AI**
+- 🤔 Interests: **A LOT**
 
 - ⚡ Hobbies: When I’m not working, I can be found watching or playing football, reading books about science communication, mystery, or history, traveling, listening to rock music, playing my guitar, or watching thrillers/documentary films.
 
@@ -28,9 +26,9 @@ Here are some ideas to get you started:
     - To see what I read, follow me on [GoodReads](https://www.goodreads.com/user/show/76771587-anubrata-bhowmick)
     - To see what I write, follow me on [Medium](https://medium.com/@anubratagunner)
     
-- Find my ML Preparation Interview Guide: https://www.notion.so/Machine-Learning-Notes-6b815915f4404e0e860adb620261c046
+- Find my ML Preparation Interview Guide: [here](https://www.notion.so/Machine-Learning-Notes-6b815915f4404e0e860adb620261c046)
 
-- More information about me on [my webpage](https://anubratabhowmick.github.io/).
+- More information about me on [my webpage](http://anubratabhowmick.com/).
 
 <hr>
 
